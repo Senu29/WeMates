@@ -1,0 +1,6 @@
+framework module Pods_WeMates {
+  umbrella header "Pods-WeMates-umbrella.h"
+
+  export *
+  module * { export * }
+}
